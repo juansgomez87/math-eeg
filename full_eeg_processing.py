@@ -151,6 +151,7 @@ for f in tqdm.tqdm(list_fn):
 
     frequency_map = list()
     all_data = {}
+    all_data['filename'] = f
     for band, fmin, fmax in iter_freqs:
 
         # Obtain the PSD using Welch's method
