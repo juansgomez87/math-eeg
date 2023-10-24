@@ -5,7 +5,7 @@ paper/OscillatoryDynamics_tracked.docx
 paper/review.txt
 paper/Rubinsten2020.pdf
 MATLAB_scripts/*
-
+mne-python.yml
 
 
 __pycache__
