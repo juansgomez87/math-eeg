@@ -6,7 +6,7 @@ paper/review.txt
 paper/Rubinsten2020.pdf
 MATLAB_scripts/*
 mne-python.yml
-
+2event_eeg_processing.py
 
 __pycache__
 *.py[cod]
