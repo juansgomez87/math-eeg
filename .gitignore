@@ -1,4 +1,9 @@
 data/*
+.venv/
+paper/Manuscript_.docx
+paper/OscillatoryDynamics_tracked.docx
+paper/review.txt
+paper/Rubinsten2020.pdf
 
 __pycache__
 *.py[cod]

@@ -1,11 +1,12 @@
-Install MNE-python: https://mne.tools/stable/install/advanced.html
+## Oscillatory dynamics during sense-making of complex naturalistic symbolic and non-symbolic mathematical demonstrations
 
-Activate conda environment:
-
+## Usage
+Install all dependencies with pip:
 ```
-conda activate mne-python
+pip3 install -r requirements.txt
 ```
 
+## Running the code
 To replicate data from paper:
 
 ```
