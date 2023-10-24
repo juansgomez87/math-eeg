@@ -1,4 +1,5 @@
 ## Oscillatory dynamics during sense-making of complex naturalistic symbolic and non-symbolic mathematical demonstrations
+Authors: Venera Gashaj, Dragan Trninić, Cléa Formaz, Samuel Tobler, Juan Sebastián Gómez‑Cañón, Hanna Poikonen, Manu Kapur
 
 ## Usage
 Install all dependencies with pip:
