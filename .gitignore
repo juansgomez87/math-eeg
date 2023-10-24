@@ -4,6 +4,9 @@ paper/Manuscript_.docx
 paper/OscillatoryDynamics_tracked.docx
 paper/review.txt
 paper/Rubinsten2020.pdf
+MATLAB_scripts/*
+
+
 
 __pycache__
 *.py[cod]
