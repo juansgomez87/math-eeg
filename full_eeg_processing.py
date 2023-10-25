@@ -199,4 +199,5 @@ df.to_csv('summary_full.csv', sep=',')
 
 np.save('error_files_full.npy', err_f)
 
+print('Files with errors: {}'.format(err_f))
 
